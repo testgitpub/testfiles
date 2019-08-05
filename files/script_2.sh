@@ -1,1 +1,1 @@
-printf 'Ceci est le second script test\n'
+printf 'Ceci est un script test (2) \n'
